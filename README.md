@@ -2,6 +2,7 @@
 
 Portuguese:
 Aulas do dia 25/03/24 até 29/03/24.
+
 Durante este curso, foram elaboradas planilhas e gráficos no Excel, os quais posteriormente foram recriados utilizando Python, com o auxílio das bibliotecas Pandas e Plotly Express. Essa abordagem proporcionou uma comparação direta das diferenças e vantagens de utilizar Python não apenas na construção de planilhas e gráficos, mas também na análise de dados. 
 
 Nas duas primeiras aulas, foi realizada a construção de planilhas no Excel, utilizando formulas e comandos básicos, e em seguida, a mesma planilha foi desenvolvida utilizando Python com a biblioteca Pandas. 
