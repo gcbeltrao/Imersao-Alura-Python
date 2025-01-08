@@ -1,23 +1,61 @@
-# Imersao-Alura-Python
+# Imersão Alura Python
 
-Portuguese:
-Aulas do dia 25/03/24 até 29/03/24.
+## 🇧🇷 Português  
+*Aulas realizadas de 25/03/2024 a 29/03/2024*
 
-Durante este curso, foram elaboradas planilhas e gráficos no Excel, os quais posteriormente foram recriados utilizando Python, com o auxílio das bibliotecas Pandas e Plotly Express. Essa abordagem proporcionou uma comparação direta das diferenças e vantagens de utilizar Python não apenas na construção de planilhas e gráficos, mas também na análise de dados. 
+Durante esta imersão, planilhas e gráficos criados no Excel foram recriados utilizando Python, com as bibliotecas **Pandas** e **Plotly Express**. Essa abordagem destacou as vantagens de usar Python, tanto para a construção de gráficos quanto para a análise de dados.
 
-Nas duas primeiras aulas, foi realizada a construção de planilhas no Excel, utilizando formulas e comandos básicos, e em seguida, a mesma planilha foi desenvolvida utilizando Python com a biblioteca Pandas. 
+### 📌 Estrutura das Aulas
 
-Nas últimas três aulas, foram apresentadas diversas bibliotecas. Foi possível gerar gráficos do tipo candlestick com várias bibliotecas, como Matplotlib, Plotly Express, Plotly Graph Objects, Plotly Subplots e Mplfinance, além de realizar análise automatizada de valores de ações utilizando a biblioteca yfinance. Além disso, exploramos outra biblioteca, a Prophet, capaz de prever, por meio de cálculos matemáticos, prováveis futuros valores de ações da bolsa. 
+1. **Primeiras Aulas (1 e 2):**  
+   - Criação de planilhas no Excel utilizando fórmulas e comandos básicos.  
+   - Reconstrução das mesmas planilhas em Python, utilizando a biblioteca **Pandas**.
 
-Em todas as aulas, foram feitas anotações e foram resolvidos desafios propostos para um melhor aprendizado, utilizando tanto o ChatGPT quanto o Stack Overflow na construção dos códigos.
+2. **Últimas Aulas (3 a 5):**  
+   - Introdução e uso de diversas bibliotecas para geração de gráficos, incluindo:  
+     - **Matplotlib**  
+     - **Plotly Express**  
+     - **Plotly Graph Objects**  
+     - **Plotly Subplots**  
+     - **Mplfinance**  
+   - Análise automatizada de valores de ações com a biblioteca **yfinance**.  
+   - Uso da biblioteca **Prophet** para previsões de valores futuros na bolsa de valores.
 
-English:
-Classes from 03/25/24 to 03/29/24.
+### 🌟 Destaques
 
-During this course, spreadsheets and graphs were created in Excel, which were later recreated using Python, with the help of the Pandas and Plotly Express libraries. This approach provided a direct comparison of the differences and advantages of using Python not only in building spreadsheets and graphs but also in data analysis. 
+- **📊 Comparações Diretas:**  
+  Observação das diferenças entre os métodos Excel e Python.
+  
+- **🚀 Exploração Prática:**  
+  Realização de exercícios e desafios propostos, utilizando ferramentas como **ChatGPT** e **Stack Overflow** para auxiliar na criação de códigos.
 
-In the first two classes, spreadsheet construction was performed in Excel using formulas and basic commands, and then the same spreadsheet was developed using Python with the Pandas library. 
+---
 
-In the last three classes, various libraries were introduced. It was possible to generate candlestick charts with several libraries, such as Matplotlib, Plotly Express, Plotly Graph Objects, Plotly Subplots, and Mplfinance, as well as perform automated analysis of stock values using the yfinance library. Additionally, we explored another library, Prophet, capable of predicting future stock values through mathematical calculations.
+## 🇺🇸 English  
+*Classes held from 03/25/2024 to 03/29/2024*
 
-Throughout all classes, notes were taken, and proposed challenges were solved for better learning, utilizing both ChatGPT and Stack Overflow in code construction.
+During this immersion, spreadsheets and graphs created in Excel were rebuilt using Python, with the **Pandas** and **Plotly Express** libraries. This highlighted the advantages of Python for graph creation and data analysis.
+
+### 📌 Class Structure
+
+1. **First Classes (1 and 2):**  
+   - Spreadsheet creation in Excel using formulas and basic commands.  
+   - Reconstruction of the same spreadsheets using Python and the **Pandas** library.
+
+2. **Final Classes (3 to 5):**  
+   - Introduction and usage of various libraries for chart generation, including:  
+     - **Matplotlib**  
+     - **Plotly Express**  
+     - **Plotly Graph Objects**  
+     - **Plotly Subplots**  
+     - **Mplfinance**  
+   - Automated stock value analysis with the **yfinance** library.  
+   - Use of the **Prophet** library for future stock value predictions.
+
+### 🌟 Highlights
+
+- **📊 Direct Comparisons:**  
+  Observing differences between Excel and Python methods.
+  
+- **🚀 Hands-On Exploration:**  
+  Completion of exercises and challenges, leveraging tools like **ChatGPT** and **Stack Overflow** to assist in code development.
